@@ -18,9 +18,5 @@ This is the new changes I made in ncl_test sub-branch!
 
 2. changes made to test pull
 
-
 3. changes in downstream & mainstream repo separately
 
-3. changes in mainstream repo
-
-When editing number "3" is duplicate. After making changes, the number is 4. 
